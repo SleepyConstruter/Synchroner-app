@@ -123,3 +123,7 @@ if __name__ == "__main__":
         logger.info("Process interrupted by user.")
         
         
+        
+        #Using Git to push and pull new changes from a remote URL: https://github.com/SleepyConstruter/Synchroner-app.git
+        
+        #If everything works last changes made from User to GitHub.
