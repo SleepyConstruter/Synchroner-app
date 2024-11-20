@@ -1,0 +1,256 @@
+2024-11-20 08:34:25,681 - INFO - Found 9 files to synchronize.
+2024-11-20 08:34:25,714 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1
+2024-11-20 08:34:25,716 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\ppr.pptx
+2024-11-20 08:34:25,818 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\Test.tmd
+2024-11-20 08:34:25,920 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2
+2024-11-20 08:34:25,922 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2\Test.tmd
+2024-11-20 08:34:26,024 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\F
+2024-11-20 08:34:26,026 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> C:\Users\TAWT\PySynch\sync_copy\sum\F\L.txt
+2024-11-20 08:34:26,129 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Access Database.accdb
+2024-11-20 08:34:26,233 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 08:34:26,335 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft PowerPoint Presentation.pptx -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft PowerPoint Presentation.pptx
+2024-11-20 08:34:26,438 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Text Document - Copy (2).txt -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Text Document - Copy (2).txt
+2024-11-20 08:34:26,540 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New WinRAR ZIP archive.zip -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New WinRAR ZIP archive.zip
+2024-11-20 08:34:26,643 - INFO - Sync complete!
+2024-11-20 08:35:02,532 - INFO - Found 6 files to synchronize.
+2024-11-20 08:35:03,176 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\B\New Microsoft PowerPoint Presentation.pptx
+2024-11-20 08:35:03,177 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\B\New Text Document - Copy (2).txt
+2024-11-20 08:35:03,177 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\B\New WinRAR ZIP archive.zip
+2024-11-20 08:35:03,178 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft PowerPoint Presentation.pptx
+2024-11-20 08:35:03,179 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\F\New Text Document - Copy (2).txt
+2024-11-20 08:35:03,179 - INFO - Removed: C:\Users\TAWT\PySynch\sync_copy\sum\F\New WinRAR ZIP archive.zip
+2024-11-20 08:35:03,180 - INFO - Sync complete!
+2024-11-20 08:41:08,274 - INFO - Found 6 files to synchronize.
+2024-11-20 08:41:08,315 - INFO - Created directory: H:\sync_copy\sum\A\A-1
+2024-11-20 08:41:08,316 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> H:\sync_copy\sum\A\A-1\ppr.pptx
+2024-11-20 08:41:08,420 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> H:\sync_copy\sum\A\A-1\Test.tmd
+2024-11-20 08:41:08,523 - INFO - Created directory: H:\sync_copy\sum\B\B-2
+2024-11-20 08:41:08,524 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> H:\sync_copy\sum\B\B-2\Test.tmd
+2024-11-20 08:41:08,626 - INFO - Created directory: H:\sync_copy\sum\F
+2024-11-20 08:41:08,627 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> H:\sync_copy\sum\F\L.txt
+2024-11-20 08:41:08,731 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> H:\sync_copy\sum\F\New Microsoft Access Database.accdb
+2024-11-20 08:41:08,834 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> H:\sync_copy\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 08:41:08,936 - INFO - Sync complete!
+2024-11-20 08:43:08,059 - INFO - Found 859 files to synchronize.
+2024-11-20 08:43:08,095 - INFO - Copied: S:\Call of Duty\.build.info -> H:\sync_copy\.\.build.info
+2024-11-20 08:43:08,197 - INFO - Copied: S:\Call of Duty\.patch.result -> H:\sync_copy\.\.patch.result
+2024-11-20 08:43:08,301 - INFO - Copied: S:\Call of Duty\.product.db -> H:\sync_copy\.\.product.db
+2024-11-20 08:43:08,409 - INFO - Copied: S:\Call of Duty\Call of Duty Launcher.exe -> H:\sync_copy\.\Call of Duty Launcher.exe
+2024-11-20 08:43:08,514 - INFO - Copied: S:\Call of Duty\Launcher.db -> H:\sync_copy\.\Launcher.db
+2024-11-20 08:43:08,618 - INFO - Created directory: H:\sync_copy\.battle.net\bts
+2024-11-20 08:43:08,620 - INFO - Copied: S:\Call of Duty\.battle.net\bts\.residency -> H:\sync_copy\.battle.net\bts\.residency
+2024-11-20 08:43:08,723 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0000000001.idx -> H:\sync_copy\.battle.net\bts\0000000001.idx
+2024-11-20 08:43:08,827 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0100000004.idx -> H:\sync_copy\.battle.net\bts\0100000004.idx
+2024-11-20 08:43:08,930 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0100000005.idx -> H:\sync_copy\.battle.net\bts\0100000005.idx
+2024-11-20 08:43:09,034 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0200000001.idx -> H:\sync_copy\.battle.net\bts\0200000001.idx
+2024-11-20 08:43:09,137 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0300000001.idx -> H:\sync_copy\.battle.net\bts\0300000001.idx
+2024-11-20 08:43:09,241 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0400000001.idx -> H:\sync_copy\.battle.net\bts\0400000001.idx
+2024-11-20 08:43:09,344 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0500000001.idx -> H:\sync_copy\.battle.net\bts\0500000001.idx
+2024-11-20 08:43:09,447 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0600000001.idx -> H:\sync_copy\.battle.net\bts\0600000001.idx
+2024-11-20 08:43:09,550 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0700000001.idx -> H:\sync_copy\.battle.net\bts\0700000001.idx
+2024-11-20 08:43:09,654 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0800000001.idx -> H:\sync_copy\.battle.net\bts\0800000001.idx
+2024-11-20 08:43:09,758 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0900000001.idx -> H:\sync_copy\.battle.net\bts\0900000001.idx
+2024-11-20 08:43:09,862 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0a00000001.idx -> H:\sync_copy\.battle.net\bts\0a00000001.idx
+2024-11-20 08:43:09,966 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0b00000001.idx -> H:\sync_copy\.battle.net\bts\0b00000001.idx
+2024-11-20 08:43:10,070 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0c00000001.idx -> H:\sync_copy\.battle.net\bts\0c00000001.idx
+2024-11-20 08:43:10,173 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0d00000001.idx -> H:\sync_copy\.battle.net\bts\0d00000001.idx
+2024-11-20 08:43:10,277 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0e00000001.idx -> H:\sync_copy\.battle.net\bts\0e00000001.idx
+2024-11-20 08:43:10,381 - INFO - Copied: S:\Call of Duty\.battle.net\bts\0f00000001.idx -> H:\sync_copy\.battle.net\bts\0f00000001.idx
+2024-11-20 08:43:10,484 - INFO - Copied: S:\Call of Duty\.battle.net\bts\shmem -> H:\sync_copy\.battle.net\bts\shmem
+2024-11-20 08:43:10,588 - INFO - Created directory: H:\sync_copy\.battle.net\config\0f\6c
+2024-11-20 08:43:10,592 - INFO - Copied: S:\Call of Duty\.battle.net\config\0f\6c\0f6ccf1dd9b9c2db99de99535c5a51ae -> H:\sync_copy\.battle.net\config\0f\6c\0f6ccf1dd9b9c2db99de99535c5a51ae
+2024-11-20 08:43:10,694 - INFO - Created directory: H:\sync_copy\.battle.net\config\41\36
+2024-11-20 08:43:10,697 - INFO - Copied: S:\Call of Duty\.battle.net\config\41\36\413678ddc8eb0957567321782faa532d -> H:\sync_copy\.battle.net\config\41\36\413678ddc8eb0957567321782faa532d
+2024-11-20 08:43:10,799 - INFO - Created directory: H:\sync_copy\.battle.net\data
+2024-11-20 08:43:10,800 - INFO - Copied: S:\Call of Duty\.battle.net\data\0000000002.idx -> H:\sync_copy\.battle.net\data\0000000002.idx
+2024-11-20 08:43:10,904 - INFO - Copied: S:\Call of Duty\.battle.net\data\0100000002.idx -> H:\sync_copy\.battle.net\data\0100000002.idx
+2024-11-20 08:43:11,007 - INFO - Copied: S:\Call of Duty\.battle.net\data\0200000002.idx -> H:\sync_copy\.battle.net\data\0200000002.idx
+2024-11-20 08:43:11,111 - INFO - Copied: S:\Call of Duty\.battle.net\data\0300000002.idx -> H:\sync_copy\.battle.net\data\0300000002.idx
+2024-11-20 08:43:11,216 - INFO - Copied: S:\Call of Duty\.battle.net\data\0400000004.idx -> H:\sync_copy\.battle.net\data\0400000004.idx
+2024-11-20 08:43:11,320 - INFO - Copied: S:\Call of Duty\.battle.net\data\0500000004.idx -> H:\sync_copy\.battle.net\data\0500000004.idx
+2024-11-20 08:43:11,424 - INFO - Copied: S:\Call of Duty\.battle.net\data\0600000002.idx -> H:\sync_copy\.battle.net\data\0600000002.idx
+2024-11-20 08:43:11,527 - INFO - Copied: S:\Call of Duty\.battle.net\data\0700000002.idx -> H:\sync_copy\.battle.net\data\0700000002.idx
+2024-11-20 08:43:11,629 - INFO - Copied: S:\Call of Duty\.battle.net\data\0800000002.idx -> H:\sync_copy\.battle.net\data\0800000002.idx
+2024-11-20 08:43:11,732 - INFO - Copied: S:\Call of Duty\.battle.net\data\0900000004.idx -> H:\sync_copy\.battle.net\data\0900000004.idx
+2024-11-20 08:43:11,836 - INFO - Copied: S:\Call of Duty\.battle.net\data\0a00000002.idx -> H:\sync_copy\.battle.net\data\0a00000002.idx
+2024-11-20 08:43:11,939 - INFO - Copied: S:\Call of Duty\.battle.net\data\0b00000004.idx -> H:\sync_copy\.battle.net\data\0b00000004.idx
+2024-11-20 08:43:12,042 - INFO - Copied: S:\Call of Duty\.battle.net\data\0c00000002.idx -> H:\sync_copy\.battle.net\data\0c00000002.idx
+2024-11-20 08:43:12,145 - INFO - Copied: S:\Call of Duty\.battle.net\data\0d00000002.idx -> H:\sync_copy\.battle.net\data\0d00000002.idx
+2024-11-20 08:43:12,250 - INFO - Copied: S:\Call of Duty\.battle.net\data\0e00000002.idx -> H:\sync_copy\.battle.net\data\0e00000002.idx
+2024-11-20 08:43:12,354 - INFO - Copied: S:\Call of Duty\.battle.net\data\0f00000002.idx -> H:\sync_copy\.battle.net\data\0f00000002.idx
+2024-11-20 08:43:12,456 - INFO - Copied: S:\Call of Duty\.battle.net\data\data.000 -> H:\sync_copy\.battle.net\data\data.000
+2024-11-20 08:43:12,560 - INFO - Copied: S:\Call of Duty\.battle.net\data\shmem -> H:\sync_copy\.battle.net\data\shmem
+2024-11-20 08:43:12,663 - INFO - Created directory: H:\sync_copy\.battle.net\ecache
+2024-11-20 08:43:12,667 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0000000001.idx -> H:\sync_copy\.battle.net\ecache\0000000001.idx
+2024-11-20 08:43:12,770 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0100000001.idx -> H:\sync_copy\.battle.net\ecache\0100000001.idx
+2024-11-20 08:43:12,873 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0200000001.idx -> H:\sync_copy\.battle.net\ecache\0200000001.idx
+2024-11-20 08:43:12,975 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0300000001.idx -> H:\sync_copy\.battle.net\ecache\0300000001.idx
+2024-11-20 08:43:13,079 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0400000001.idx -> H:\sync_copy\.battle.net\ecache\0400000001.idx
+2024-11-20 08:43:13,182 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0500000001.idx -> H:\sync_copy\.battle.net\ecache\0500000001.idx
+2024-11-20 08:43:13,284 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0600000001.idx -> H:\sync_copy\.battle.net\ecache\0600000001.idx
+2024-11-20 08:43:13,388 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0700000001.idx -> H:\sync_copy\.battle.net\ecache\0700000001.idx
+2024-11-20 08:43:13,492 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0800000001.idx -> H:\sync_copy\.battle.net\ecache\0800000001.idx
+2024-11-20 08:43:13,595 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0900000001.idx -> H:\sync_copy\.battle.net\ecache\0900000001.idx
+2024-11-20 08:43:13,698 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0a00000001.idx -> H:\sync_copy\.battle.net\ecache\0a00000001.idx
+2024-11-20 08:43:13,802 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0b00000001.idx -> H:\sync_copy\.battle.net\ecache\0b00000001.idx
+2024-11-20 08:43:13,905 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0c00000001.idx -> H:\sync_copy\.battle.net\ecache\0c00000001.idx
+2024-11-20 08:43:14,009 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0d00000001.idx -> H:\sync_copy\.battle.net\ecache\0d00000001.idx
+2024-11-20 08:43:14,114 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0e00000001.idx -> H:\sync_copy\.battle.net\ecache\0e00000001.idx
+2024-11-20 08:43:14,217 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\0f00000001.idx -> H:\sync_copy\.battle.net\ecache\0f00000001.idx
+2024-11-20 08:43:14,320 - INFO - Copied: S:\Call of Duty\.battle.net\ecache\shmem -> H:\sync_copy\.battle.net\ecache\shmem
+2024-11-20 08:43:14,422 - INFO - Created directory: H:\sync_copy\.battle.net\indices
+2024-11-20 08:43:14,425 - INFO - Copied: S:\Call of Duty\.battle.net\indices\16d35936464778451e1605b57f298d86.index -> H:\sync_copy\.battle.net\indices\16d35936464778451e1605b57f298d86.index
+2024-11-20 08:43:14,528 - INFO - Copied: S:\Call of Duty\.battle.net\indices\1cd01430dea8b513ae2ec73dc9bbd868.index -> H:\sync_copy\.battle.net\indices\1cd01430dea8b513ae2ec73dc9bbd868.index
+2024-11-20 08:43:14,631 - INFO - Copied: S:\Call of Duty\.battle.net\indices\3dbeecd44b30fc3e4b962a0b511c1fec.index -> H:\sync_copy\.battle.net\indices\3dbeecd44b30fc3e4b962a0b511c1fec.index
+2024-11-20 08:43:14,734 - INFO - Copied: S:\Call of Duty\.battle.net\indices\b9ab7d67c28acac9a8eb9e37ec7562f1.index -> H:\sync_copy\.battle.net\indices\b9ab7d67c28acac9a8eb9e37ec7562f1.index
+2024-11-20 08:43:14,837 - INFO - Created directory: H:\sync_copy\Data\auks
+2024-11-20 08:43:14,840 - INFO - Copied: S:\Call of Duty\Data\auks\.residency -> H:\sync_copy\Data\auks\.residency
+2024-11-20 08:43:14,943 - INFO - Copied: S:\Call of Duty\Data\auks\0000000006.idx -> H:\sync_copy\Data\auks\0000000006.idx
+2024-11-20 08:43:15,045 - INFO - Copied: S:\Call of Duty\Data\auks\0100000006.idx -> H:\sync_copy\Data\auks\0100000006.idx
+2024-11-20 08:43:15,149 - INFO - Copied: S:\Call of Duty\Data\auks\0200000006.idx -> H:\sync_copy\Data\auks\0200000006.idx
+2024-11-20 08:43:15,253 - INFO - Copied: S:\Call of Duty\Data\auks\0300000006.idx -> H:\sync_copy\Data\auks\0300000006.idx
+2024-11-20 08:43:15,356 - INFO - Copied: S:\Call of Duty\Data\auks\0400000006.idx -> H:\sync_copy\Data\auks\0400000006.idx
+2024-11-20 08:43:15,459 - INFO - Copied: S:\Call of Duty\Data\auks\0500000006.idx -> H:\sync_copy\Data\auks\0500000006.idx
+2024-11-20 08:43:15,563 - INFO - Copied: S:\Call of Duty\Data\auks\0600000006.idx -> H:\sync_copy\Data\auks\0600000006.idx
+2024-11-20 08:43:15,668 - INFO - Copied: S:\Call of Duty\Data\auks\0700000006.idx -> H:\sync_copy\Data\auks\0700000006.idx
+2024-11-20 08:43:15,771 - INFO - Copied: S:\Call of Duty\Data\auks\0800000006.idx -> H:\sync_copy\Data\auks\0800000006.idx
+2024-11-20 08:43:15,875 - INFO - Copied: S:\Call of Duty\Data\auks\0900000006.idx -> H:\sync_copy\Data\auks\0900000006.idx
+2024-11-20 08:43:15,977 - INFO - Copied: S:\Call of Duty\Data\auks\0a00000006.idx -> H:\sync_copy\Data\auks\0a00000006.idx
+2024-11-20 08:43:16,081 - INFO - Copied: S:\Call of Duty\Data\auks\0b00000006.idx -> H:\sync_copy\Data\auks\0b00000006.idx
+2024-11-20 08:43:16,186 - INFO - Copied: S:\Call of Duty\Data\auks\0c00000006.idx -> H:\sync_copy\Data\auks\0c00000006.idx
+2024-11-20 08:43:16,288 - INFO - Copied: S:\Call of Duty\Data\auks\0d00000006.idx -> H:\sync_copy\Data\auks\0d00000006.idx
+2024-11-20 08:43:16,392 - INFO - Copied: S:\Call of Duty\Data\auks\0e00000006.idx -> H:\sync_copy\Data\auks\0e00000006.idx
+2024-11-20 08:43:16,496 - INFO - Copied: S:\Call of Duty\Data\auks\0f00000006.idx -> H:\sync_copy\Data\auks\0f00000006.idx
+2024-11-20 08:43:16,600 - INFO - Copied: S:\Call of Duty\Data\auks\shmem -> H:\sync_copy\Data\auks\shmem
+2024-11-20 08:43:16,703 - INFO - Created directory: H:\sync_copy\Data\config\20\4a
+2024-11-20 08:43:16,705 - INFO - Copied: S:\Call of Duty\Data\config\20\4a\204acdc2efb927029c5ead5b0a5c553f -> H:\sync_copy\Data\config\20\4a\204acdc2efb927029c5ead5b0a5c553f
+2024-11-20 08:43:16,806 - INFO - Created directory: H:\sync_copy\Data\config\38\26
+2024-11-20 08:43:16,809 - INFO - Copied: S:\Call of Duty\Data\config\38\26\382616175b2ee746bd2ae1cd70b45c64 -> H:\sync_copy\Data\config\38\26\382616175b2ee746bd2ae1cd70b45c64
+2024-11-20 08:43:16,912 - INFO - Created directory: H:\sync_copy\Data\config\56\af
+2024-11-20 08:43:16,915 - INFO - Copied: S:\Call of Duty\Data\config\56\af\56af80149d3a705da188f5cdc4a77f50 -> H:\sync_copy\Data\config\56\af\56af80149d3a705da188f5cdc4a77f50
+2024-11-20 08:43:17,019 - INFO - Created directory: H:\sync_copy\Data\config\62\71
+2024-11-20 08:43:17,021 - INFO - Copied: S:\Call of Duty\Data\config\62\71\6271b1c9667774bb7d3829937025d45d -> H:\sync_copy\Data\config\62\71\6271b1c9667774bb7d3829937025d45d
+2024-11-20 08:43:17,123 - INFO - Created directory: H:\sync_copy\Data\config\64\b6
+2024-11-20 08:43:17,124 - INFO - Copied: S:\Call of Duty\Data\config\64\b6\64b65f1b5925537537dece64f6334e08 -> H:\sync_copy\Data\config\64\b6\64b65f1b5925537537dece64f6334e08
+2024-11-20 08:43:17,228 - INFO - Created directory: H:\sync_copy\Data\config\ab\ab
+2024-11-20 08:43:17,231 - INFO - Copied: S:\Call of Duty\Data\config\ab\ab\ababcff6393b837cfc1ea68ee9253326 -> H:\sync_copy\Data\config\ab\ab\ababcff6393b837cfc1ea68ee9253326
+2024-11-20 08:43:17,333 - INFO - Created directory: H:\sync_copy\Data\config\ca\ae
+2024-11-20 08:43:17,334 - INFO - Copied: S:\Call of Duty\Data\config\ca\ae\caaee4e957fa1f217f8a78235277d99e -> H:\sync_copy\Data\config\ca\ae\caaee4e957fa1f217f8a78235277d99e
+2024-11-20 08:43:17,437 - INFO - Created directory: H:\sync_copy\Data\config\cc\4b
+2024-11-20 08:43:17,439 - INFO - Copied: S:\Call of Duty\Data\config\cc\4b\cc4b5535e3afbfc535c7944f81f6e61e -> H:\sync_copy\Data\config\cc\4b\cc4b5535e3afbfc535c7944f81f6e61e
+2024-11-20 08:43:17,542 - INFO - Created directory: H:\sync_copy\Data\config\d5\e3
+2024-11-20 08:43:17,543 - INFO - Copied: S:\Call of Duty\Data\config\d5\e3\d5e350518979e9eaab4905a7711286de -> H:\sync_copy\Data\config\d5\e3\d5e350518979e9eaab4905a7711286de
+2024-11-20 08:43:17,645 - INFO - Created directory: H:\sync_copy\Data\config\ed\d0
+2024-11-20 08:43:17,647 - INFO - Copied: S:\Call of Duty\Data\config\ed\d0\edd071cf6d39891fb8e942cc90ae0bde -> H:\sync_copy\Data\config\ed\d0\edd071cf6d39891fb8e942cc90ae0bde
+2024-11-20 08:43:17,749 - INFO - Created directory: H:\sync_copy\Data\data
+2024-11-20 08:43:17,751 - INFO - Copied: S:\Call of Duty\Data\data\000000007a.idx -> H:\sync_copy\Data\data\000000007a.idx
+2024-11-20 08:43:17,854 - INFO - Copied: S:\Call of Duty\Data\data\010000007e.idx -> H:\sync_copy\Data\data\010000007e.idx
+2024-11-20 08:43:17,958 - INFO - Copied: S:\Call of Duty\Data\data\020000007e.idx -> H:\sync_copy\Data\data\020000007e.idx
+2024-11-20 08:43:18,062 - INFO - Copied: S:\Call of Duty\Data\data\0300000079.idx -> H:\sync_copy\Data\data\0300000079.idx
+2024-11-20 08:43:18,165 - INFO - Copied: S:\Call of Duty\Data\data\0400000079.idx -> H:\sync_copy\Data\data\0400000079.idx
+2024-11-20 08:43:18,268 - INFO - Copied: S:\Call of Duty\Data\data\050000007c.idx -> H:\sync_copy\Data\data\050000007c.idx
+2024-11-20 08:43:18,371 - INFO - Copied: S:\Call of Duty\Data\data\060000007b.idx -> H:\sync_copy\Data\data\060000007b.idx
+2024-11-20 08:43:18,474 - INFO - Copied: S:\Call of Duty\Data\data\0700000078.idx -> H:\sync_copy\Data\data\0700000078.idx
+2024-11-20 08:43:18,577 - INFO - Copied: S:\Call of Duty\Data\data\080000007b.idx -> H:\sync_copy\Data\data\080000007b.idx
+2024-11-20 08:43:18,680 - INFO - Copied: S:\Call of Duty\Data\data\090000007a.idx -> H:\sync_copy\Data\data\090000007a.idx
+2024-11-20 08:43:18,783 - INFO - Copied: S:\Call of Duty\Data\data\0a00000078.idx -> H:\sync_copy\Data\data\0a00000078.idx
+2024-11-20 08:43:18,885 - INFO - Copied: S:\Call of Duty\Data\data\0b00000079.idx -> H:\sync_copy\Data\data\0b00000079.idx
+2024-11-20 08:43:18,990 - INFO - Copied: S:\Call of Duty\Data\data\0c0000007a.idx -> H:\sync_copy\Data\data\0c0000007a.idx
+2024-11-20 08:43:19,093 - INFO - Copied: S:\Call of Duty\Data\data\0d00000079.idx -> H:\sync_copy\Data\data\0d00000079.idx
+2024-11-20 08:43:19,197 - INFO - Copied: S:\Call of Duty\Data\data\0e00000079.idx -> H:\sync_copy\Data\data\0e00000079.idx
+2024-11-20 08:43:19,302 - INFO - Copied: S:\Call of Duty\Data\data\0f0000007a.idx -> H:\sync_copy\Data\data\0f0000007a.idx
+2024-11-20 08:43:19,992 - INFO - Copied: S:\Call of Duty\Data\data\data.000 -> H:\sync_copy\Data\data\data.000
+2024-11-20 08:43:20,538 - INFO - Copied: S:\Call of Duty\Data\data\data.001 -> H:\sync_copy\Data\data\data.001
+2024-11-20 08:43:21,257 - INFO - Copied: S:\Call of Duty\Data\data\data.002 -> H:\sync_copy\Data\data\data.002
+2024-11-20 08:43:25,719 - INFO - Copied: S:\Call of Duty\Data\data\data.003 -> H:\sync_copy\Data\data\data.003
+2024-11-20 08:43:26,359 - INFO - Copied: S:\Call of Duty\Data\data\data.004 -> H:\sync_copy\Data\data\data.004
+2024-11-20 08:43:28,700 - INFO - Copied: S:\Call of Duty\Data\data\data.005 -> H:\sync_copy\Data\data\data.005
+2024-11-20 08:43:32,851 - INFO - Copied: S:\Call of Duty\Data\data\data.006 -> H:\sync_copy\Data\data\data.006
+2024-11-20 08:43:35,652 - INFO - Copied: S:\Call of Duty\Data\data\data.007 -> H:\sync_copy\Data\data\data.007
+2024-11-20 08:43:36,200 - INFO - Copied: S:\Call of Duty\Data\data\data.008 -> H:\sync_copy\Data\data\data.008
+2024-11-20 08:43:36,708 - INFO - Copied: S:\Call of Duty\Data\data\data.009 -> H:\sync_copy\Data\data\data.009
+2024-11-20 08:43:38,691 - INFO - Copied: S:\Call of Duty\Data\data\data.010 -> H:\sync_copy\Data\data\data.010
+2024-11-20 08:43:41,218 - INFO - Copied: S:\Call of Duty\Data\data\data.011 -> H:\sync_copy\Data\data\data.011
+2024-11-20 08:43:44,501 - INFO - Copied: S:\Call of Duty\Data\data\data.012 -> H:\sync_copy\Data\data\data.012
+2024-11-20 08:43:46,990 - INFO - Copied: S:\Call of Duty\Data\data\data.013 -> H:\sync_copy\Data\data\data.013
+2024-11-20 08:43:49,196 - INFO - Copied: S:\Call of Duty\Data\data\data.014 -> H:\sync_copy\Data\data\data.014
+2024-11-20 08:43:49,665 - INFO - Copied: S:\Call of Duty\Data\data\data.015 -> H:\sync_copy\Data\data\data.015
+2024-11-20 08:43:50,271 - INFO - Copied: S:\Call of Duty\Data\data\data.016 -> H:\sync_copy\Data\data\data.016
+2024-11-20 08:43:53,881 - INFO - Copied: S:\Call of Duty\Data\data\data.017 -> H:\sync_copy\Data\data\data.017
+2024-11-20 08:44:08,539 - INFO - Copied: S:\Call of Duty\Data\data\data.018 -> H:\sync_copy\Data\data\data.018
+2024-11-20 08:44:43,222 - INFO - Copied: S:\Call of Duty\Data\data\data.019 -> H:\sync_copy\Data\data\data.019
+2024-11-20 08:49:52,080 - ERROR - Source folder 'S:\H:\Adobe Premiere Pro Auto-Save' does not exist!
+2024-11-20 08:50:36,781 - ERROR - Source folder 'S:\H:\Adobe Premiere Pro Auto-Save' does not exist!
+2024-11-20 08:52:43,628 - INFO - Found 3056 files to synchronize.
+2024-11-20 08:52:43,685 - INFO - Copied: H:\Programs Files\LMMS\libfftw3f-3.dll -> H:\sync_copy\.\libfftw3f-3.dll
+2024-11-20 08:52:43,805 - INFO - Copied: H:\Programs Files\LMMS\libFLAC-8.dll -> H:\sync_copy\.\libFLAC-8.dll
+2024-11-20 08:52:43,938 - INFO - Copied: H:\Programs Files\LMMS\libfltk.dll -> H:\sync_copy\.\libfltk.dll
+2024-11-20 08:52:44,067 - INFO - Copied: H:\Programs Files\LMMS\libfluidsynth.dll -> H:\sync_copy\.\libfluidsynth.dll
+2024-11-20 08:52:44,185 - INFO - Copied: H:\Programs Files\LMMS\libgig-6.dll -> H:\sync_copy\.\libgig-6.dll
+2024-11-20 08:52:44,299 - INFO - Copied: H:\Programs Files\LMMS\libglib-2.0-0.dll -> H:\sync_copy\.\libglib-2.0-0.dll
+2024-11-20 08:52:44,401 - INFO - Copied: H:\Programs Files\LMMS\libgthread-2.0-0.dll -> H:\sync_copy\.\libgthread-2.0-0.dll
+2024-11-20 08:52:44,527 - INFO - Copied: H:\Programs Files\LMMS\libjpeg-9.dll -> H:\sync_copy\.\libjpeg-9.dll
+2024-11-20 08:52:44,631 - INFO - Copied: H:\Programs Files\LMMS\libmp3lame-0.dll -> H:\sync_copy\.\libmp3lame-0.dll
+2024-11-20 08:52:44,733 - INFO - Copied: H:\Programs Files\LMMS\libogg-0.dll -> H:\sync_copy\.\libogg-0.dll
+2024-11-20 08:52:44,839 - INFO - Copied: H:\Programs Files\LMMS\libpng16-16.dll -> H:\sync_copy\.\libpng16-16.dll
+2024-11-20 08:52:44,940 - INFO - Process interrupted by user.
+2024-11-20 09:10:18,714 - INFO - Found 6 files to synchronize.
+2024-11-20 09:10:18,746 - INFO - Created directory: H:\sum\A\A-1
+2024-11-20 09:10:18,748 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> H:\sum\A\A-1\ppr.pptx
+2024-11-20 09:10:18,849 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> H:\sum\A\A-1\Test.tmd
+2024-11-20 09:10:18,951 - INFO - Created directory: H:\sum\B\B-2
+2024-11-20 09:10:18,952 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> H:\sum\B\B-2\Test.tmd
+2024-11-20 09:10:19,053 - INFO - Created directory: H:\sum\F
+2024-11-20 09:10:19,055 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> H:\sum\F\L.txt
+2024-11-20 09:10:19,159 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> H:\sum\F\New Microsoft Access Database.accdb
+2024-11-20 09:10:19,262 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> H:\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 09:10:19,364 - INFO - Removed: H:\desktop.ini
+2024-11-20 09:10:19,365 - INFO - Removed: H:\TLauncher-2.86-Installer-1.0.1.exe
+2024-11-20 09:10:19,367 - INFO - Removed: H:\xero-launcher-x64.zip
+2024-11-20 09:10:19,374 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IC5DVZ0.mp4
+2024-11-20 09:10:19,375 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IHLSZW5.gif
+2024-11-20 09:10:19,375 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$II87FZ3.mp4
+2024-11-20 09:10:19,377 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IMP3AF0.mp4
+2024-11-20 09:10:19,377 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IQYIEHR.mp4
+2024-11-20 09:10:19,378 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$ITHEU0W.mp4
+2024-11-20 09:10:19,378 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IU9ZA3T.mp4
+2024-11-20 09:10:19,379 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\$IUZ6HSB.mp4
+2024-11-20 09:10:19,381 - INFO - Removed: H:\$RECYCLE.BIN\S-1-5-21-2571338151-4021204927-3432402975-1001\desktop.ini
+2024-11-20 09:17:05,666 - INFO - Found 6 files to synchronize.
+2024-11-20 09:17:05,699 - INFO - Created directory: C:\Users\TAWT\PySynch\sum\A\A-1
+2024-11-20 09:17:05,701 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> C:\Users\TAWT\PySynch\sum\A\A-1\ppr.pptx
+2024-11-20 09:17:05,803 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> C:\Users\TAWT\PySynch\sum\A\A-1\Test.tmd
+2024-11-20 09:17:05,906 - INFO - Created directory: C:\Users\TAWT\PySynch\sum\B\B-2
+2024-11-20 09:17:05,907 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> C:\Users\TAWT\PySynch\sum\B\B-2\Test.tmd
+2024-11-20 09:17:06,010 - INFO - Created directory: C:\Users\TAWT\PySynch\sum\F
+2024-11-20 09:17:06,013 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> C:\Users\TAWT\PySynch\sum\F\L.txt
+2024-11-20 09:17:06,116 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> C:\Users\TAWT\PySynch\sum\F\New Microsoft Access Database.accdb
+2024-11-20 09:17:06,219 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> C:\Users\TAWT\PySynch\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 09:17:06,320 - INFO - Removed: C:\Users\TAWT\PySynch\README.md
+2024-11-20 09:17:06,321 - INFO - Removed: C:\Users\TAWT\PySynch\sync.py
+2024-11-20 09:24:17,408 - INFO - Found 6 files to synchronize.
+2024-11-20 09:24:17,446 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1
+2024-11-20 09:24:17,448 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\ppr.pptx
+2024-11-20 09:24:17,552 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\Test.tmd
+2024-11-20 09:24:17,654 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2
+2024-11-20 09:24:17,655 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2\Test.tmd
+2024-11-20 09:24:17,756 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\F
+2024-11-20 09:24:17,758 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> C:\Users\TAWT\PySynch\sync_copy\sum\F\L.txt
+2024-11-20 09:24:17,860 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Access Database.accdb
+2024-11-20 09:24:17,964 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 09:24:18,068 - INFO - Sync complete!
+2024-11-20 09:24:36,590 - INFO - Found 6 files to synchronize.
+2024-11-20 09:24:36,628 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1
+2024-11-20 09:24:36,631 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\ppr.pptx -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\ppr.pptx
+2024-11-20 09:24:36,734 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\A\A-1\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\A\A-1\Test.tmd
+2024-11-20 09:24:36,836 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2
+2024-11-20 09:24:36,838 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\B\B-2\Test.tmd -> C:\Users\TAWT\PySynch\sync_copy\sum\B\B-2\Test.tmd
+2024-11-20 09:24:36,940 - INFO - Created directory: C:\Users\TAWT\PySynch\sync_copy\sum\F
+2024-11-20 09:24:36,941 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\L.txt -> C:\Users\TAWT\PySynch\sync_copy\sum\F\L.txt
+2024-11-20 09:24:37,045 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Access Database.accdb -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Access Database.accdb
+2024-11-20 09:24:37,148 - INFO - Copied: C:\Users\TAWT\PySynch\sync\sum\F\New Microsoft Excel Worksheet.xlsx -> C:\Users\TAWT\PySynch\sync_copy\sum\F\New Microsoft Excel Worksheet.xlsx
+2024-11-20 09:24:37,253 - INFO - Sync complete!
+2024-11-20 09:37:07,079 - INFO - Found 6 files to synchronize.
+2024-11-20 09:37:07,724 - INFO - Sync complete!
+2024-11-20 10:31:46,586 - INFO - Found 6 files to synchronize.
+2024-11-20 10:31:47,274 - INFO - Sync complete!
